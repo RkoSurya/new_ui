@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add these if you need to ensure proper dropdown behavior */
+.relative {
+  position: relative;
+}
+
+.z-50 {
+  z-index: 50;
+}
